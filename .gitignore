@@ -1,0 +1,12 @@
+target/
+.DS_Store
+*.class
+project/jars/
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
